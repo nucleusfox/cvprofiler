@@ -1,7 +1,7 @@
 /*********************************************************************************************
  *
  *  Simple helper to get CV details in form of JSON. Requires credentials
- *  to SF where details are stored and connected app is configured with usage of oAuth 2.0.
+ *  to SF where details are stored and connected app configured with usage of oAuth 2.0.
  *
  *  @author nucleusfox
  *
